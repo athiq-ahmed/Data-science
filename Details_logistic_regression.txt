@@ -1,0 +1,22 @@
+Refrences
+
+https://datascienceplus.com/building-a-logistic-regression-in-python-step-by-step/
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+https://www.kaggle.com/mnassrib/titanic-logistic-regression-with-python
+
+https://github.com/upul/logistic_regression/blob/master/logistic_regression_1.ipynb - chk this
+https://houxianxu.github.io/implementation/LogisticRegression.html - chk this
+https://www.kaggle.com/chiranjeevbit/bank-data-analysis - chk this
+https://www.geeksforgeeks.org/understanding-logistic-regression/ - chk this
+http://datacognizant.com/index.php/ml-algorithms-decoded/ - chk this
+http://nbviewer.jupyter.org/github/tfolkman/learningwithdata/blob/master/Logistic%20Gradient%20Descent.ipynb - chk this
+https://beckernick.github.io/logistic-regression-from-scratch/ - chk this
+https://zlatankr.github.io/posts/2017/03/06/mle-gradient-descent - chk this for theory
+
+chk out later
+https://www.quantinsti.com/blog/machine-learning-logistic-regression-python/
+https://www.linkedin.com/pulse/logistic-regression-algorithm-step-amit-kumar/
+https://www.analyticsvidhya.com/blog/2015/10/basics-logistic-regression/
+http://www.simafore.com/blog/bid/99443/Understand-3-critical-steps-in-developing-logistic-regression-models
+https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
+http://www.bogotobogo.com/python/scikit-learn/scikit-learn_logistic_regression.php
